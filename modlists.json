@@ -1,40 +1,43 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Viva New Vegas",
-        "description": "Viva New Vegas is a Vanilla Plus modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
-        "author": "Ungeziefi",
-        "maintainers": [
-            "github/Ungeziefi"
-        ],
-        "game": "falloutnewvegas",
-        "tags": [
-            "Stability",
-            "Performance",
-            "Customizability",
-            "Gameplay",
-            "Vanilla Plus"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/Ungeziefi/VNV-Wabbajack/main/Image.png",
-            "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-            "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-            "machineURL": "VivaNewVegas",
-            "discordURL": "https://discord.gg/S99Ary5eba"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "e1+K7eJbDJw=",
-            "Size": 0,
-            "NumberOfArchives": 14,
-            "SizeOfArchives": 135206078,
-            "NumberOfInstalledFiles": 1311,
-            "SizeOfInstalledFiles": 336453775
-        },
-        "version": "29.4.24"
-    }
+  {
+    "title": "Viva New Vegas",
+    "description": "Viva New Vegas is a Vanilla Plus modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
+    "author": "Ungeziefi",
+    "maintainers": [
+      "github/Ungeziefi"
+    ],
+    "game": "falloutnewvegas",
+    "official": false,
+    "tags": [
+      "Stability",
+      "Performance",
+      "Customizability",
+      "Gameplay",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Ungeziefi/VNV-Wabbajack/main/Image.png",
+      "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
+      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_7eeaba5b-9582-4627-b155-b7dd332f0b68",
+      "machineURL": "VivaNewVegas",
+      "discordURL": "https://discord.gg/S99Ary5eba"
+    },
+    "download_metadata": {
+      "Hash": "8VN4VV+NDrI=",
+      "Size": 222114357,
+      "NumberOfArchives": 150,
+      "SizeOfArchives": 1727828705,
+      "NumberOfInstalledFiles": 10379,
+      "SizeOfInstalledFiles": 4630736183
+    },
+    "version": "29.4.24",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-04-29T22:05:58.6944307Z",
+    "repositoryName": ""
+  }
 ]
