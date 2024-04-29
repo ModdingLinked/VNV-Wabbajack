@@ -16,7 +16,7 @@
             "Vanilla Plus"
         ],
         "nsfw": false,
-        "image_contains_title": false,
+        "image_contains_title": true,
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
