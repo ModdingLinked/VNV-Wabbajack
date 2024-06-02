@@ -7,7 +7,7 @@
       "github/Ungeziefi"
     ],
     "game": "falloutnewvegas",
-    "official": false,
+    "official": true,
     "tags": [
       "Stability",
       "Performance",
