@@ -4,7 +4,8 @@
     "description": "Viva New Vegas is a modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
     "author": "Ungeziefi",
     "maintainers": [
-      "github/Ungeziefi"
+      "github/Ungeziefi",
+      "github/WallSoGB"
     ],
     "game": "falloutnewvegas",
     "official": true,
