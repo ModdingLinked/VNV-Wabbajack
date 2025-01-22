@@ -9,6 +9,7 @@
 
 ### Right before upload
 - Update the date separator.
+- Decompress plugins.
 - Restore the game's folder to totally vanilla.
 - Remove any exe you added during development from MO2's executables list.
 - Remove uninstalled mods from the download pane (it's a right-click function).
