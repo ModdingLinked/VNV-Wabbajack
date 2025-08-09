@@ -23,7 +23,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ungeziefi/VNV-Wabbajack/main/Image.png",
+      "image": "https://raw.githubusercontent.com/ModdingLinked/VNV-Wabbajack/refs/heads/main/Image.webp",
       "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
       "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_6f9f28b0-e1a4-4fc5-9c1a-80b43e264b9c",
       "machineURL": "VivaNewVegas",
@@ -44,4 +44,5 @@
     "dateUpdated": "2025-08-09T14:23:32.3996981Z",
     "repositoryName": ""
   }
+
 ]
